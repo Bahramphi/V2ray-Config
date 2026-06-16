@@ -1,0 +1,10 @@
+#profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViMTIg8J+UpQ==
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
+#support-url: https://github.com/barry-far/V2ray-config
+#profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:80?encryption=none&type=ws&path=%2F%3Fed%3D3000&host=pon.antalmani.mm.am#Channel%20id%3A%20%40ShadowProxy6`
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@162.159.38.119:80?encryption=none&type=ws&path=%2F%3Fed%3D3000&host=pon.antalmani.mm.am#Channel%20id%3A%20%40ShadowProxy6`
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@auth.vercel.com:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D3000&host=pon.antalmani.mm.am&sni=pon.antalmani.mm.am&fp=firefox&insecure=0&allowInsecure=0#Channel%20id%3A%20%40ShadowProxy6`
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@141.193.213.10:80?encryption=none&type=ws&path=%2F%3Fed%3D3000&host=pon.antalmani.mm.am#Channel%20id%3A%20%40ShadowProxy6`
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D3000&host=pon.antalmani.mm.am&sni=pon.antalmani.mm.am&fp=firefox&insecure=0&allowInsecure=0#Channel%20id%3A%20%40ShadowProxy6`
