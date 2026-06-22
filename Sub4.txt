@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://29f6e546-e399-a594-5a33-10be32a87a7d@188.114.97.7:8443?path=/sync&security=tls&encryption=none&insecure=0&host=fragrant-unit-d662.mmammatrix770088.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=fragrant-unit-d662.mmammatrix770088.workers.dev#🇨🇦@FreakConfig
 vless://29f6e546-e399-a594-5a33-10be32a87a7d@188.114.97.7:8443?path=/sync&security=tls&encryption=none&insecure=0&host=fragrant-unit-d662.mmammatrix770088.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=fragrant-unit-d662.mmammatrix770088.workers.dev#🇨🇦@irconfiig
 vless://2a79921d-9364-44cc-b56a-cfb650dfe858@74.49.214.31:2053?path=/&security=tls&encryption=none&type=ws&sni=bxeghTOnQ9.lucypro.ir#⚡@V2ray_official
 vless://2ad4ae11-81e6-465a-b1b1-c04f10de28e6@now.nexuschat.fun:45774?security=none&encryption=none&headerType=none&type=tcp#@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆🇩🇪
@@ -502,4 +503,3 @@ vless://4d2f353f-73cd-44f0-834c-e4e6874551df@72.56.71.247:40443?security=reality
 vless://4d2f353f-73cd-44f0-834c-e4e6874551df@72.56.71.247:40443?security=reality&encryption=none&pbk=zH_3ABX1RiBh4Be_xH9QJcQMzOEI4L4zmiuTiA2_ThU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=b9a9#@vmesskhodam
 vless://4d2f353f-73cd-44f0-834c-e4e6874551df@72.56.71.247:40443?security=reality&encryption=none&pbk=zH_3ABX1RiBh4Be_xH9QJcQMzOEI4L4zmiuTiA2_ThU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=b9a9#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️417🌐🆕️
 vless://4d2f353f-73cd-44f0-834c-e4e6874551df@72.56.71.247:40443?security=reality&encryption=none&pbk=zH_3ABX1RiBh4Be_xH9QJcQMzOEI4L4zmiuTiA2_ThU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=b9a9#✅  @vistav2ray  👈👈کانال ما ✅
-vless://4d2f353f-73cd-44f0-834c-e4e6874551df@72.56.71.247:40443?security=reality&encryption=none&pbk=zH_3ABX1RiBh4Be_xH9QJcQMzOEI4L4zmiuTiA2_ThU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=b9a9#💥Tel: @Proxy_Vpney (3)
