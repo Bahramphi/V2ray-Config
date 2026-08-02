@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.195.58:443?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#V2ray_Alpha💈 5
 vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.195.58:443?path=/fdip=tw.william.us.ci!txt&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#@hopev2ray💛
 vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.195.58:443?path=/fdip=tw.william.us.ci!txt&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#@icv2ray
 vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.195.58:443?path=/fdip=tw.william.us.ci!txt&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#@meliproxyy
@@ -502,4 +503,3 @@ vless://43488128-319e-f480-64ea-0acdc712e2a8@51.255.71.16:443?security=reality&e
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.232.249:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.122.222:80?security=none&type=ws&host=us3.rtacg.com&path=/#@v2ray_configs_pools-join-us-on-Telegram
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.46.227:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.83.238:80?security=none&type=ws&host=us3.rtacg.com&path=/#@v2ray_configs_pools-join-us-on-Telegram
